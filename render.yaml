@@ -3,7 +3,7 @@ services:
   - type: web
     name: mytestproj
     env: docker
-    repo: https://github.com/akashicoin/Heroku-v2ray.git # optional
+    repo: https://github.com/mzltest/p1.git # optional
     region: Singapore  # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
